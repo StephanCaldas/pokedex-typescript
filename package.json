@@ -1,0 +1,27 @@
+{
+  "name": "pokedex-typescript",
+  "version": "1.0.0",
+  "description": "Trabalho acadêmico desenvolvido para o SC Tech.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx src/main.ts",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephanCaldas/pokedex-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/StephanCaldas/pokedex-typescript/issues"
+  },
+  "homepage": "https://github.com/StephanCaldas/pokedex-typescript#readme",
+  "devDependencies": {
+    "@types/node": "^26.4.0",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2"
+  }
+}
